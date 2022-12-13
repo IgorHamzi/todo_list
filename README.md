@@ -12,6 +12,6 @@ Projeto realizado para consolidar os conhecimento aprendidos em HTML, CSS, JS, W
 
 ## :link: O que foi desenvolvido
 
-Foi desenvolvido uma lista tarefas onde é possível adicionar, editar, excluir, salvar e marcar como finalizadas as tarefas.
+Foi desenvolvido uma lista tarefas onde é possível adicionar, editar, excluir e marcar como finalizadas as tarefas.
 
 ### Projeto realizado no módulo de fundamentos do Curso de Desenvolvimento WEB da TRYBE.
